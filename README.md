@@ -1,6 +1,6 @@
 # EC360 Assignment 2 - QuickCart Microservices
 
-**Author:** Shamin Khawar
+**Author:** Shamin Bibi
 **Roll Number:** 518113
 **Course:** EC360 Software Engineering, DE-46 (B), Fall 2026, NUST CEME
 
